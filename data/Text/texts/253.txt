@@ -1,0 +1,11 @@
+[!]
+--- RECORDSEPARATOR ---
+ Because features are still 
+--- RECORDSEPARATOR ---
+being added, savefiles are only 
+--- RECORDSEPARATOR ---
+supported in the 
+--- RECORDSEPARATOR ---
+完整版
+--- RECORDSEPARATOR ---
+!

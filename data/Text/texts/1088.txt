@@ -1,0 +1,5 @@
+PAY 
+--- RECORDSEPARATOR ---
+x
+--- RECORDSEPARATOR ---
+ 2
